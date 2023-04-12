@@ -25,5 +25,10 @@ header{
 .row{
     margin: auto;
     padding-top: 150px;
-    width: 960px;
+    width: 1140px;
+}
+
+#explore-head-section{
+    position: relative;
+    margin-top: 700px;
 }
